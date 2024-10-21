@@ -14,6 +14,9 @@ As a Computer Science and Applied Statistics student, I aim to harness technolog
 ![MIPS](https://img.shields.io/badge/MIPS-Assembly-blue)
 ![Delphi](https://img.shields.io/badge/Borland%20Delphi-5.0-orange)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murema-v3-exp&show_icons=true&locale=en&layout=compact" alt="murema-v3-exp" /></p>  
+<br /><br /><br /><br /><br /><br /><br />
+
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=murema-v3-exp&show_icons=true&theme=radical)  
  I know, I know, they're bad, we're working on it🥲
