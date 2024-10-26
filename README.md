@@ -27,6 +27,7 @@ As a Computer Science and Applied Statistics student, I aim to harness technolog
 ## 🎉 Fun Facts
 - I love running, reading books, and all things music.
 - I can't decide if I'm addicted to coffee or if coffee is addicted to me but either way, we have a strong bond! ☕️❤️
+- Ask me about my Strava
 
 
 <!---
